@@ -28,14 +28,17 @@ Welcome to my GitHub! I’m a passionate **Software Engineer** exploring the int
 ![Git](https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Tools-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![LangChain](https://img.shields.io/badge/AI-LangChain-4B5563?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/Flow-LangGraph-1e90ff?style=for-the-badge&logo=python&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/AI-CrewAI-000000?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Tools-Cursor-black?style=for-the-badge)
 
 ---
 
 ## 📌 Featured Projects
-
-- 🏡 [**AI Agents for House Search**](https://github.com/Divyasri6/AI_agents_for_-house_search)  
+- [**AI-Powered Student Self-Evaluation System**](https://github.com/Divyasri6/AI-Powered_Student-_Self-Evaluation_System)
+  Developed an AI-driven exam analyzer using LangGraph and Flask, enabling instant student feedback and reducing teacher evaluation time
+  
+- 🏡 [**Enhancing Home Search with AI Agents**](https://github.com/Divyasri6/AI_agents_for_-house_search)  
   Automates house hunting using RAG, LangChain, and CrewAI.
 
 - 📄 [**PDF AI Assistant**](https://github.com/Divyasri6/PDF-AI-Assistant)  
